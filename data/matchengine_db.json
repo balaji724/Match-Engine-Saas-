@@ -1,0 +1,1312 @@
+{
+  "files": {
+    "f_demo_a_9ea78498": {
+      "id": "f_demo_a_9ea78498",
+      "filename": "f_demo_a_9ea78498_crm_accounts_export.xlsx",
+      "original_name": "crm_accounts_export.xlsx",
+      "file_size": 23009,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 21,
+      "columns": [
+        "id",
+        "company_name",
+        "domain",
+        "address",
+        "email",
+        "phone",
+        "pincode"
+      ],
+      "preview_rows": [
+        {
+          "id": "CRM_101",
+          "company_name": "Salesforce Inc",
+          "domain": "salesforce.com",
+          "address": "415 Mission St, San Francisco, CA",
+          "email": "sales@salesforce.com",
+          "phone": "18006676389",
+          "pincode": "94105"
+        },
+        {
+          "id": "CRM_102",
+          "company_name": "Microsoft Corporation",
+          "domain": "https://microsoft.com",
+          "address": "One Microsoft Way, Redmond, WA",
+          "email": "bizdev@microsoft.com",
+          "phone": "4258828080",
+          "pincode": "98052"
+        },
+        {
+          "id": "CRM_103",
+          "company_name": "Apple Computrs Inc",
+          "domain": "apple.com",
+          "address": "1 Apple Park Way, Cupertino",
+          "email": "enterprise@apple.com",
+          "phone": "4089961010",
+          "pincode": "95014"
+        },
+        {
+          "id": "CRM_104",
+          "company_name": "Amazon Web Services, LLC",
+          "domain": "aws.amazon.com",
+          "address": "410 Terry Ave N, Seattle, WA",
+          "email": "support@aws.amazon.com",
+          "phone": "2062661000",
+          "pincode": "98109"
+        },
+        {
+          "id": "CRM_105",
+          "company_name": "Oracle Systems Corp",
+          "domain": "oracle.com",
+          "address": "2300 Oracle Way, Austin, TX",
+          "email": "info@oracle.com",
+          "phone": "7378561000",
+          "pincode": "78741"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_demo_a_9ea78498_crm_accounts_export.xlsx",
+      "created_at": "2026-10-03T07:28:44.161Z"
+    },
+    "f_demo_b_6fa5783d": {
+      "id": "f_demo_b_6fa5783d",
+      "filename": "f_demo_b_6fa5783d_erp_master_vendors.xlsx",
+      "original_name": "erp_master_vendors.xlsx",
+      "file_size": 22885,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 21,
+      "columns": [
+        "vendor_code",
+        "vendor_name",
+        "official_url",
+        "corporate_street",
+        "contact_email",
+        "tel_number",
+        "zip_code"
+      ],
+      "preview_rows": [
+        {
+          "vendor_code": "ERP_901",
+          "vendor_name": "Salesforce.com, LLC",
+          "official_url": "https://www.salesforce.com",
+          "corporate_street": "415 Mission Street Fl 3",
+          "contact_email": "billing@salesforce.com",
+          "tel_number": "+1 (800) 667-6389",
+          "zip_code": "94105"
+        },
+        {
+          "vendor_code": "ERP_902",
+          "vendor_name": "Microsoft Corp.",
+          "official_url": "www.microsoft.com",
+          "corporate_street": "1 Microsoft Way, Building 92",
+          "contact_email": "invoicing@microsoft.com",
+          "tel_number": "425-882-8080",
+          "zip_code": "98052"
+        },
+        {
+          "vendor_code": "ERP_903",
+          "vendor_name": "Apple Inc.",
+          "official_url": "https://apple.com",
+          "corporate_street": "One Apple Park Way",
+          "contact_email": "accounts@apple.com",
+          "tel_number": "(408) 996-1010",
+          "zip_code": "95014"
+        },
+        {
+          "vendor_code": "ERP_904",
+          "vendor_name": "Amazon Web Services Inc",
+          "official_url": "aws.amazon.com",
+          "corporate_street": "410 Terry Avenue North",
+          "contact_email": "aws-receivables@amazon.com",
+          "tel_number": "206-266-1000",
+          "zip_code": "98109"
+        },
+        {
+          "vendor_code": "ERP_905",
+          "vendor_name": "Oracle America Inc",
+          "official_url": "http://www.oracle.com",
+          "corporate_street": "2300 Oracle Way",
+          "contact_email": "ar@oracle.com",
+          "tel_number": "737-856-1000",
+          "zip_code": "78741"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_demo_b_6fa5783d_erp_master_vendors.xlsx",
+      "created_at": "2026-10-03T07:28:44.165Z"
+    },
+    "f_demo_a_b56d087d": {
+      "id": "f_demo_a_b56d087d",
+      "filename": "f_demo_a_b56d087d_crm_accounts_export.xlsx",
+      "original_name": "crm_accounts_export.xlsx",
+      "file_size": 23009,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 21,
+      "columns": [
+        "id",
+        "company_name",
+        "domain",
+        "address",
+        "email",
+        "phone",
+        "pincode"
+      ],
+      "preview_rows": [
+        {
+          "id": "CRM_101",
+          "company_name": "Salesforce Inc",
+          "domain": "salesforce.com",
+          "address": "415 Mission St, San Francisco, CA",
+          "email": "sales@salesforce.com",
+          "phone": "18006676389",
+          "pincode": "94105"
+        },
+        {
+          "id": "CRM_102",
+          "company_name": "Microsoft Corporation",
+          "domain": "https://microsoft.com",
+          "address": "One Microsoft Way, Redmond, WA",
+          "email": "bizdev@microsoft.com",
+          "phone": "4258828080",
+          "pincode": "98052"
+        },
+        {
+          "id": "CRM_103",
+          "company_name": "Apple Computrs Inc",
+          "domain": "apple.com",
+          "address": "1 Apple Park Way, Cupertino",
+          "email": "enterprise@apple.com",
+          "phone": "4089961010",
+          "pincode": "95014"
+        },
+        {
+          "id": "CRM_104",
+          "company_name": "Amazon Web Services, LLC",
+          "domain": "aws.amazon.com",
+          "address": "410 Terry Ave N, Seattle, WA",
+          "email": "support@aws.amazon.com",
+          "phone": "2062661000",
+          "pincode": "98109"
+        },
+        {
+          "id": "CRM_105",
+          "company_name": "Oracle Systems Corp",
+          "domain": "oracle.com",
+          "address": "2300 Oracle Way, Austin, TX",
+          "email": "info@oracle.com",
+          "phone": "7378561000",
+          "pincode": "78741"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_demo_a_b56d087d_crm_accounts_export.xlsx",
+      "created_at": "2026-10-03T07:33:34.338Z"
+    },
+    "f_demo_b_6d3e6f20": {
+      "id": "f_demo_b_6d3e6f20",
+      "filename": "f_demo_b_6d3e6f20_erp_master_vendors.xlsx",
+      "original_name": "erp_master_vendors.xlsx",
+      "file_size": 22885,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 21,
+      "columns": [
+        "vendor_code",
+        "vendor_name",
+        "official_url",
+        "corporate_street",
+        "contact_email",
+        "tel_number",
+        "zip_code"
+      ],
+      "preview_rows": [
+        {
+          "vendor_code": "ERP_901",
+          "vendor_name": "Salesforce.com, LLC",
+          "official_url": "https://www.salesforce.com",
+          "corporate_street": "415 Mission Street Fl 3",
+          "contact_email": "billing@salesforce.com",
+          "tel_number": "+1 (800) 667-6389",
+          "zip_code": "94105"
+        },
+        {
+          "vendor_code": "ERP_902",
+          "vendor_name": "Microsoft Corp.",
+          "official_url": "www.microsoft.com",
+          "corporate_street": "1 Microsoft Way, Building 92",
+          "contact_email": "invoicing@microsoft.com",
+          "tel_number": "425-882-8080",
+          "zip_code": "98052"
+        },
+        {
+          "vendor_code": "ERP_903",
+          "vendor_name": "Apple Inc.",
+          "official_url": "https://apple.com",
+          "corporate_street": "One Apple Park Way",
+          "contact_email": "accounts@apple.com",
+          "tel_number": "(408) 996-1010",
+          "zip_code": "95014"
+        },
+        {
+          "vendor_code": "ERP_904",
+          "vendor_name": "Amazon Web Services Inc",
+          "official_url": "aws.amazon.com",
+          "corporate_street": "410 Terry Avenue North",
+          "contact_email": "aws-receivables@amazon.com",
+          "tel_number": "206-266-1000",
+          "zip_code": "98109"
+        },
+        {
+          "vendor_code": "ERP_905",
+          "vendor_name": "Oracle America Inc",
+          "official_url": "http://www.oracle.com",
+          "corporate_street": "2300 Oracle Way",
+          "contact_email": "ar@oracle.com",
+          "tel_number": "737-856-1000",
+          "zip_code": "78741"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_demo_b_6d3e6f20_erp_master_vendors.xlsx",
+      "created_at": "2026-10-03T07:33:34.344Z"
+    },
+    "f": {
+      "id": "f",
+      "filename": "f_1e32c78a10b4_company_name_matching_500_test.xlsx",
+      "original_name": "company_name_matching_500_test.xlsx",
+      "file_size": 15578,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 500,
+      "columns": [
+        "Input Company Name",
+        "Output Company Name"
+      ],
+      "preview_rows": [
+        {
+          "Input Company Name": "KALESHWARI SPORTS PRIVATE LIMITED",
+          "Output Company Name": "KALESHWARI SPORTS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "GLOBAL WATER PROJECTS PRIVATE LIMITED",
+          "Output Company Name": "GLOBAL WATER PROJECTS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "VRAJ SYSCOM PRIVATE LIMITED",
+          "Output Company Name": "VRAJ SYSCOM PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "GUNGUNWALA FOOD EQUIPMENT PRIVATE LIMITED",
+          "Output Company Name": "GUNGUNWALA FOOD EQUIPMENT PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "RF TECHNOSOLUTIONS PRIVATE LIMITED",
+          "Output Company Name": "RF TECHNOSOLUTIONS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "AKSHRA TECHNO SERVICES PRIVATE LIMITED",
+          "Output Company Name": "AKSHRA TECHNO SERVICES PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "LL.SS FIRE SOLUTIONS PRIVATE LIMITED",
+          "Output Company Name": "LL.SS FIRE SOLUTIONS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "SOLAR DEFENCE LIMITED",
+          "Output Company Name": "SOLAR DEFENCE LIMITED"
+        },
+        {
+          "Input Company Name": "EVIROCOR PACKAGING INDIA PRIVATE LIMITED",
+          "Output Company Name": "EVIROCOR PACKAGING INDIA PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "FANAIR INDIA PRIVATE LIMITED",
+          "Output Company Name": "FANAIR INDIA PRIVATE LIMITED"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_1e32c78a10b4_company_name_matching_500_test.xlsx",
+      "created_at": "2026-10-03T08:21:13.871Z"
+    },
+    "f_demo_a_2ac9a261": {
+      "id": "f_demo_a_2ac9a261",
+      "filename": "f_demo_a_2ac9a261_crm_accounts_export.xlsx",
+      "original_name": "crm_accounts_export.xlsx",
+      "file_size": 23009,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 21,
+      "columns": [
+        "id",
+        "company_name",
+        "domain",
+        "address",
+        "email",
+        "phone",
+        "pincode"
+      ],
+      "preview_rows": [
+        {
+          "id": "CRM_101",
+          "company_name": "Salesforce Inc",
+          "domain": "salesforce.com",
+          "address": "415 Mission St, San Francisco, CA",
+          "email": "sales@salesforce.com",
+          "phone": "18006676389",
+          "pincode": "94105"
+        },
+        {
+          "id": "CRM_102",
+          "company_name": "Microsoft Corporation",
+          "domain": "https://microsoft.com",
+          "address": "One Microsoft Way, Redmond, WA",
+          "email": "bizdev@microsoft.com",
+          "phone": "4258828080",
+          "pincode": "98052"
+        },
+        {
+          "id": "CRM_103",
+          "company_name": "Apple Computrs Inc",
+          "domain": "apple.com",
+          "address": "1 Apple Park Way, Cupertino",
+          "email": "enterprise@apple.com",
+          "phone": "4089961010",
+          "pincode": "95014"
+        },
+        {
+          "id": "CRM_104",
+          "company_name": "Amazon Web Services, LLC",
+          "domain": "aws.amazon.com",
+          "address": "410 Terry Ave N, Seattle, WA",
+          "email": "support@aws.amazon.com",
+          "phone": "2062661000",
+          "pincode": "98109"
+        },
+        {
+          "id": "CRM_105",
+          "company_name": "Oracle Systems Corp",
+          "domain": "oracle.com",
+          "address": "2300 Oracle Way, Austin, TX",
+          "email": "info@oracle.com",
+          "phone": "7378561000",
+          "pincode": "78741"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_demo_a_2ac9a261_crm_accounts_export.xlsx",
+      "created_at": "2026-10-03T08:18:48.807Z"
+    },
+    "f_demo_b_c5ba1b85": {
+      "id": "f_demo_b_c5ba1b85",
+      "filename": "f_demo_b_c5ba1b85_erp_master_vendors.xlsx",
+      "original_name": "erp_master_vendors.xlsx",
+      "file_size": 22885,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 21,
+      "columns": [
+        "vendor_code",
+        "vendor_name",
+        "official_url",
+        "corporate_street",
+        "contact_email",
+        "tel_number",
+        "zip_code"
+      ],
+      "preview_rows": [
+        {
+          "vendor_code": "ERP_901",
+          "vendor_name": "Salesforce.com, LLC",
+          "official_url": "https://www.salesforce.com",
+          "corporate_street": "415 Mission Street Fl 3",
+          "contact_email": "billing@salesforce.com",
+          "tel_number": "+1 (800) 667-6389",
+          "zip_code": "94105"
+        },
+        {
+          "vendor_code": "ERP_902",
+          "vendor_name": "Microsoft Corp.",
+          "official_url": "www.microsoft.com",
+          "corporate_street": "1 Microsoft Way, Building 92",
+          "contact_email": "invoicing@microsoft.com",
+          "tel_number": "425-882-8080",
+          "zip_code": "98052"
+        },
+        {
+          "vendor_code": "ERP_903",
+          "vendor_name": "Apple Inc.",
+          "official_url": "https://apple.com",
+          "corporate_street": "One Apple Park Way",
+          "contact_email": "accounts@apple.com",
+          "tel_number": "(408) 996-1010",
+          "zip_code": "95014"
+        },
+        {
+          "vendor_code": "ERP_904",
+          "vendor_name": "Amazon Web Services Inc",
+          "official_url": "aws.amazon.com",
+          "corporate_street": "410 Terry Avenue North",
+          "contact_email": "aws-receivables@amazon.com",
+          "tel_number": "206-266-1000",
+          "zip_code": "98109"
+        },
+        {
+          "vendor_code": "ERP_905",
+          "vendor_name": "Oracle America Inc",
+          "official_url": "http://www.oracle.com",
+          "corporate_street": "2300 Oracle Way",
+          "contact_email": "ar@oracle.com",
+          "tel_number": "737-856-1000",
+          "zip_code": "78741"
+        }
+      ],
+      "storage_path": "/app/applet/data/uploads/f_demo_b_c5ba1b85_erp_master_vendors.xlsx",
+      "created_at": "2026-10-03T08:18:48.811Z"
+    },
+    "f_0728e3147d09": {
+      "id": "f_0728e3147d09",
+      "filename": "f_0728e3147d09_company_name_matching_500_test.xlsx",
+      "original_name": "company_name_matching_500_test.xlsx",
+      "file_size": 15578,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "row_count": 500,
+      "columns": [
+        "Input Company Name",
+        "Output Company Name"
+      ],
+      "preview_rows": [
+        {
+          "Input Company Name": "KALESHWARI SPORTS PRIVATE LIMITED",
+          "Output Company Name": "KALESHWARI SPORTS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "GLOBAL WATER PROJECTS PRIVATE LIMITED",
+          "Output Company Name": "GLOBAL WATER PROJECTS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "VRAJ SYSCOM PRIVATE LIMITED",
+          "Output Company Name": "VRAJ SYSCOM PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "GUNGUNWALA FOOD EQUIPMENT PRIVATE LIMITED",
+          "Output Company Name": "GUNGUNWALA FOOD EQUIPMENT PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "RF TECHNOSOLUTIONS PRIVATE LIMITED",
+          "Output Company Name": "RF TECHNOSOLUTIONS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "AKSHRA TECHNO SERVICES PRIVATE LIMITED",
+          "Output Company Name": "AKSHRA TECHNO SERVICES PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "LL.SS FIRE SOLUTIONS PRIVATE LIMITED",
+          "Output Company Name": "LL.SS FIRE SOLUTIONS PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "SOLAR DEFENCE LIMITED",
+          "Output Company Name": "SOLAR DEFENCE LIMITED"
+        },
+        {
+          "Input Company Name": "EVIROCOR PACKAGING INDIA PRIVATE LIMITED",
+          "Output Company Name": "EVIROCOR PACKAGING INDIA PRIVATE LIMITED"
+        },
+        {
+          "Input Company Name": "FANAIR INDIA PRIVATE LIMITED",
+          "Output Company Name": "FANAIR INDIA PRIVATE LIMITED"
+        }
+      ],
+      "storage_path": "data/uploads/f_0728e3147d09_company_name_matching_500_test.xlsx",
+      "created_at": "2026-10-03T08:25:09.412Z"
+    }
+  },
+  "matching_jobs": {
+    "job_5d37aef18110": {
+      "id": "job_5d37aef18110",
+      "name": "Test Demo Match",
+      "file_a_id": "f_demo_a_9ea78498",
+      "file_b_id": "f_demo_b_6fa5783d",
+      "status": "COMPLETED",
+      "progress": 100,
+      "current_stage": "Matching Finished & Excel Packages Ready",
+      "total_rows": 21,
+      "processed_rows": 21,
+      "matches_count": 3,
+      "partial_matches_count": 17,
+      "not_matches_count": 1,
+      "elapsed_ms": 34,
+      "rows_per_second": 617.6,
+      "created_at": "2026-10-03T07:28:48.131Z",
+      "started_at": "2026-10-03T07:30:13.141Z",
+      "error_message": "archiver is not a function",
+      "completed_at": "2026-10-03T07:30:13.271Z"
+    },
+    "job_a47469720981": {
+      "id": "job_a47469720981",
+      "name": "Enterprise Demo: CRM vs ERP Vendor Matching",
+      "file_a_id": "f_demo_a_b56d087d",
+      "file_b_id": "f_demo_b_6d3e6f20",
+      "status": "MAPPING",
+      "progress": 0,
+      "current_stage": "Awaiting Column Mapping",
+      "total_rows": 21,
+      "processed_rows": 0,
+      "matches_count": 0,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 0,
+      "rows_per_second": 0,
+      "created_at": "2026-10-03T07:33:34.454Z"
+    },
+    "job_84dc41b2abe7": {
+      "id": "job_84dc41b2abe7",
+      "name": "Enterprise Entity Match",
+      "file_a_id": "f",
+      "file_b_id": "f",
+      "status": "COMPLETED",
+      "progress": 100,
+      "current_stage": "Matching Finished & Excel Packages Ready",
+      "total_rows": 17498,
+      "processed_rows": 17498,
+      "matches_count": 17498,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 15732,
+      "rows_per_second": 1112.3,
+      "created_at": "2026-10-03T07:51:11.586Z",
+      "started_at": "2026-10-03T07:53:04.069Z",
+      "completed_at": "2026-10-03T07:53:23.419Z"
+    },
+    "job_bbff46406e82": {
+      "id": "job_bbff46406e82",
+      "name": "Enterprise Entity Match",
+      "file_a_id": "f",
+      "file_b_id": "f",
+      "status": "COMPLETED",
+      "progress": 100,
+      "current_stage": "Matching Finished & Excel Packages Ready",
+      "total_rows": 500,
+      "processed_rows": 500,
+      "matches_count": 500,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 120,
+      "rows_per_second": 4166.7,
+      "created_at": "2026-10-03T08:04:51.854Z",
+      "started_at": "2026-10-03T08:05:23.080Z",
+      "completed_at": "2026-10-03T08:05:23.474Z"
+    },
+    "job_393ee23d38e2": {
+      "id": "job_393ee23d38e2",
+      "name": "Enterprise Entity Match",
+      "file_a_id": "f",
+      "file_b_id": "f",
+      "status": "COMPLETED",
+      "progress": 100,
+      "current_stage": "Matching Finished & Excel Packages Ready",
+      "total_rows": 500,
+      "processed_rows": 500,
+      "matches_count": 500,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 127,
+      "rows_per_second": 3937,
+      "created_at": "2026-10-03T08:10:44.218Z",
+      "started_at": "2026-10-03T08:10:59.512Z",
+      "completed_at": "2026-10-03T08:11:00.003Z"
+    },
+    "job_3ed3e2f1380e": {
+      "id": "job_3ed3e2f1380e",
+      "name": "Single File A Deduplication",
+      "file_a_id": "f_demo_a_9ea78498",
+      "file_b_id": "f_demo_a_9ea78498",
+      "status": "COMPLETED",
+      "progress": 100,
+      "current_stage": "Matching Finished & Excel Packages Ready",
+      "total_rows": 21,
+      "processed_rows": 21,
+      "matches_count": 0,
+      "partial_matches_count": 0,
+      "not_matches_count": 21,
+      "elapsed_ms": 39,
+      "rows_per_second": 538.5,
+      "created_at": "2026-10-03T08:16:01.684Z",
+      "started_at": "2026-10-03T08:16:05.087Z",
+      "completed_at": "2026-10-03T08:16:05.246Z"
+    },
+    "job_01e9720718bd": {
+      "id": "job_01e9720718bd",
+      "name": "Enterprise Entity Match",
+      "file_a_id": "f",
+      "file_b_id": "f",
+      "status": "MAPPING",
+      "progress": 0,
+      "current_stage": "Awaiting Column Mapping",
+      "total_rows": 500,
+      "processed_rows": 0,
+      "matches_count": 0,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 0,
+      "rows_per_second": 0,
+      "created_at": "2026-10-03T08:17:18.053Z"
+    },
+    "job_73d1dab97ebd": {
+      "id": "job_73d1dab97ebd",
+      "name": "Enterprise Entity Match",
+      "file_a_id": "f",
+      "file_b_id": "f",
+      "status": "COMPLETED",
+      "progress": 100,
+      "current_stage": "Matching Finished & Excel Packages Ready",
+      "total_rows": 500,
+      "processed_rows": 500,
+      "matches_count": 0,
+      "partial_matches_count": 40,
+      "not_matches_count": 460,
+      "elapsed_ms": 129,
+      "rows_per_second": 3876,
+      "created_at": "2026-10-03T08:19:35.455Z",
+      "started_at": "2026-10-03T08:19:53.838Z",
+      "completed_at": "2026-10-03T08:19:54.361Z"
+    },
+    "job_fa34ac18f895": {
+      "id": "job_fa34ac18f895",
+      "name": "Enterprise Entity Match",
+      "file_a_id": "f",
+      "file_b_id": "f",
+      "status": "MAPPING",
+      "progress": 0,
+      "current_stage": "Awaiting Column Mapping",
+      "total_rows": 500,
+      "processed_rows": 0,
+      "matches_count": 0,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 0,
+      "rows_per_second": 0,
+      "created_at": "2026-10-03T08:21:18.759Z"
+    },
+    "job_80e82b2a0523": {
+      "id": "job_80e82b2a0523",
+      "name": "Company Name Matching 500 Test",
+      "file_a_id": "f_0728e3147d09",
+      "file_b_id": "f_0728e3147d09",
+      "status": "PROCESSING",
+      "progress": 88,
+      "current_stage": "Partitioning Results into Excel Workbooks & Creating ZIP Archive",
+      "total_rows": 500,
+      "processed_rows": 500,
+      "matches_count": 500,
+      "partial_matches_count": 0,
+      "not_matches_count": 0,
+      "elapsed_ms": 101,
+      "rows_per_second": 4950.5,
+      "created_at": "2026-10-03T08:25:15.378Z",
+      "started_at": "2026-10-03T08:25:25.457Z"
+    }
+  },
+  "matching_configs": {
+    "job_5d37aef18110": {
+      "id": "cfg_a8cc6ffafa8e",
+      "job_id": "job_5d37aef18110",
+      "mapping": {
+        "company_name": {
+          "a": "company_name",
+          "b": "vendor_name"
+        },
+        "domain": {
+          "a": "domain",
+          "b": "official_url"
+        },
+        "address": {
+          "a": "address",
+          "b": "corporate_street"
+        },
+        "email": {
+          "a": "email",
+          "b": "contact_email"
+        },
+        "phone": {
+          "a": "phone",
+          "b": "tel_number"
+        },
+        "pincode": {
+          "a": "pincode",
+          "b": "zip_code"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T07:28:48.131Z"
+    },
+    "job_a47469720981": {
+      "id": "cfg_c193f84ce0e3",
+      "job_id": "job_a47469720981",
+      "mapping": {
+        "company_name": {
+          "a": "company_name",
+          "b": "vendor_name"
+        },
+        "domain": {
+          "a": "domain",
+          "b": "official_url"
+        },
+        "address": {
+          "a": "address",
+          "b": "corporate_street"
+        },
+        "email": {
+          "a": "email",
+          "b": "contact_email"
+        },
+        "phone": {
+          "a": "phone",
+          "b": "tel_number"
+        },
+        "pincode": {
+          "a": "pincode",
+          "b": "zip_code"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T07:33:34.454Z"
+    },
+    "job_84dc41b2abe7": {
+      "id": "cfg_16aa764215d6",
+      "job_id": "job_84dc41b2abe7",
+      "mapping": {
+        "company_name": {
+          "a": "Input_CompanyName",
+          "b": "Input_CompanyName"
+        },
+        "domain": {
+          "a": "DNB_ID",
+          "b": "DNB_ID"
+        },
+        "address": {
+          "a": "DNB_ID",
+          "b": "DNB_ID"
+        },
+        "email": {
+          "a": "DNB_ID",
+          "b": "DNB_ID"
+        },
+        "phone": {
+          "a": "DNB_ID",
+          "b": "DNB_ID"
+        },
+        "pincode": {
+          "a": "DNB_ID",
+          "b": "DNB_ID"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T07:53:03.902Z"
+    },
+    "job_bbff46406e82": {
+      "id": "cfg_14712bdf2101",
+      "job_id": "job_bbff46406e82",
+      "mapping": {
+        "company_name": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "domain": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "address": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "email": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "phone": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "pincode": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:05:22.985Z"
+    },
+    "job_393ee23d38e2": {
+      "id": "cfg_20e50bb96cd4",
+      "job_id": "job_393ee23d38e2",
+      "mapping": {
+        "company_name": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "domain": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "address": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "email": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "phone": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "pincode": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:10:59.353Z"
+    },
+    "job_3ed3e2f1380e": {
+      "id": "cfg_3b1abc091d45",
+      "job_id": "job_3ed3e2f1380e",
+      "mapping": {
+        "company_name": {
+          "a": "company_name",
+          "b": "company_name"
+        },
+        "domain": {
+          "a": "domain",
+          "b": "domain"
+        },
+        "address": {
+          "a": "address",
+          "b": "address"
+        },
+        "email": {
+          "a": "email",
+          "b": "email"
+        },
+        "phone": {
+          "a": "phone",
+          "b": "phone"
+        },
+        "pincode": {
+          "a": "pincode",
+          "b": "pincode"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:16:01.684Z"
+    },
+    "job_01e9720718bd": {
+      "id": "cfg_12dca49a3e19",
+      "job_id": "job_01e9720718bd",
+      "mapping": {
+        "company_name": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "domain": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "address": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "email": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "phone": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "pincode": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:17:18.053Z"
+    },
+    "job_73d1dab97ebd": {
+      "id": "cfg_df0e92a37291",
+      "job_id": "job_73d1dab97ebd",
+      "mapping": {
+        "company_name": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "domain": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "address": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "email": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "phone": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "pincode": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:19:53.612Z"
+    },
+    "job_fa34ac18f895": {
+      "id": "cfg_4e78490b0a5b",
+      "job_id": "job_fa34ac18f895",
+      "mapping": {
+        "company_name": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "domain": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "address": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "email": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "phone": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        },
+        "pincode": {
+          "a": "Input Company Name",
+          "b": "Input Company Name"
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:21:18.760Z"
+    },
+    "job_80e82b2a0523": {
+      "id": "cfg_25cf34a58db8",
+      "job_id": "job_80e82b2a0523",
+      "mapping": {
+        "company_name": {
+          "a": "Input Company Name",
+          "b": "Output Company Name"
+        },
+        "domain": {
+          "a": "",
+          "b": ""
+        },
+        "address": {
+          "a": "",
+          "b": ""
+        },
+        "email": {
+          "a": "",
+          "b": ""
+        },
+        "phone": {
+          "a": "",
+          "b": ""
+        },
+        "pincode": {
+          "a": "",
+          "b": ""
+        }
+      },
+      "weights": {
+        "company_name": 30,
+        "domain": 25,
+        "address": 20,
+        "email": 10,
+        "phone": 10,
+        "pincode": 5
+      },
+      "thresholds": {
+        "match": 90,
+        "partial_match": 60
+      },
+      "updated_at": "2026-10-03T08:25:15.379Z"
+    }
+  },
+  "result_files": {
+    "res_job_5d37aef18110_1": {
+      "id": "res_job_5d37aef18110_1",
+      "job_id": "job_5d37aef18110",
+      "filename": "results_001.xlsx",
+      "file_type": "EXCEL_CHUNK",
+      "file_size": 37762,
+      "record_count": 21,
+      "download_path": "/app/applet/data/results/job_5d37aef18110/results_001.xlsx",
+      "created_at": "2026-10-03T07:30:13.271Z"
+    },
+    "zip_job_5d37aef18110": {
+      "id": "zip_job_5d37aef18110",
+      "job_id": "job_5d37aef18110",
+      "filename": "match_results.zip",
+      "file_type": "ZIP_ARCHIVE",
+      "file_size": 11910,
+      "record_count": 21,
+      "download_path": "/app/applet/data/results/job_5d37aef18110/match_results.zip",
+      "created_at": "2026-10-03T07:30:13.271Z"
+    },
+    "sum_job_5d37aef18110": {
+      "id": "sum_job_5d37aef18110",
+      "job_id": "job_5d37aef18110",
+      "filename": "summary.xlsx",
+      "file_type": "SUMMARY_EXCEL",
+      "file_size": 17761,
+      "record_count": 1,
+      "download_path": "/app/applet/data/results/job_5d37aef18110/summary.xlsx",
+      "created_at": "2026-10-03T07:30:13.271Z"
+    },
+    "res_job_84dc41b2abe7_1": {
+      "id": "res_job_84dc41b2abe7_1",
+      "job_id": "job_84dc41b2abe7",
+      "filename": "results_001.xlsx",
+      "file_type": "EXCEL_CHUNK",
+      "file_size": 17888783,
+      "record_count": 17498,
+      "download_path": "/app/applet/data/results/job_84dc41b2abe7/results_001.xlsx",
+      "created_at": "2026-10-03T07:53:23.419Z"
+    },
+    "zip_job_84dc41b2abe7": {
+      "id": "zip_job_84dc41b2abe7",
+      "job_id": "job_84dc41b2abe7",
+      "filename": "match_results.zip",
+      "file_type": "ZIP_ARCHIVE",
+      "file_size": 1656435,
+      "record_count": 17498,
+      "download_path": "/app/applet/data/results/job_84dc41b2abe7/match_results.zip",
+      "created_at": "2026-10-03T07:53:23.419Z"
+    },
+    "sum_job_84dc41b2abe7": {
+      "id": "sum_job_84dc41b2abe7",
+      "job_id": "job_84dc41b2abe7",
+      "filename": "summary.xlsx",
+      "file_type": "SUMMARY_EXCEL",
+      "file_size": 17790,
+      "record_count": 1,
+      "download_path": "/app/applet/data/results/job_84dc41b2abe7/summary.xlsx",
+      "created_at": "2026-10-03T07:53:23.419Z"
+    },
+    "res_job_bbff46406e82_1": {
+      "id": "res_job_bbff46406e82_1",
+      "job_id": "job_bbff46406e82",
+      "filename": "results_001.xlsx",
+      "file_type": "EXCEL_CHUNK",
+      "file_size": 650063,
+      "record_count": 500,
+      "download_path": "/app/applet/data/results/job_bbff46406e82/results_001.xlsx",
+      "created_at": "2026-10-03T08:05:23.474Z"
+    },
+    "zip_job_bbff46406e82": {
+      "id": "zip_job_bbff46406e82",
+      "job_id": "job_bbff46406e82",
+      "filename": "match_results.zip",
+      "file_type": "ZIP_ARCHIVE",
+      "file_size": 56193,
+      "record_count": 500,
+      "download_path": "/app/applet/data/results/job_bbff46406e82/match_results.zip",
+      "created_at": "2026-10-03T08:05:23.474Z"
+    },
+    "sum_job_bbff46406e82": {
+      "id": "sum_job_bbff46406e82",
+      "job_id": "job_bbff46406e82",
+      "filename": "summary.xlsx",
+      "file_type": "SUMMARY_EXCEL",
+      "file_size": 17783,
+      "record_count": 1,
+      "download_path": "/app/applet/data/results/job_bbff46406e82/summary.xlsx",
+      "created_at": "2026-10-03T08:05:23.474Z"
+    },
+    "res_job_393ee23d38e2_1": {
+      "id": "res_job_393ee23d38e2_1",
+      "job_id": "job_393ee23d38e2",
+      "filename": "results_001.xlsx",
+      "file_type": "EXCEL_CHUNK",
+      "file_size": 650063,
+      "record_count": 500,
+      "download_path": "/app/applet/data/results/job_393ee23d38e2/results_001.xlsx",
+      "created_at": "2026-10-03T08:11:00.003Z"
+    },
+    "zip_job_393ee23d38e2": {
+      "id": "zip_job_393ee23d38e2",
+      "job_id": "job_393ee23d38e2",
+      "filename": "match_results.zip",
+      "file_type": "ZIP_ARCHIVE",
+      "file_size": 56193,
+      "record_count": 500,
+      "download_path": "/app/applet/data/results/job_393ee23d38e2/match_results.zip",
+      "created_at": "2026-10-03T08:11:00.003Z"
+    },
+    "sum_job_393ee23d38e2": {
+      "id": "sum_job_393ee23d38e2",
+      "job_id": "job_393ee23d38e2",
+      "filename": "summary.xlsx",
+      "file_type": "SUMMARY_EXCEL",
+      "file_size": 17783,
+      "record_count": 1,
+      "download_path": "/app/applet/data/results/job_393ee23d38e2/summary.xlsx",
+      "created_at": "2026-10-03T08:11:00.003Z"
+    },
+    "res_job_3ed3e2f1380e_1": {
+      "id": "res_job_3ed3e2f1380e_1",
+      "job_id": "job_3ed3e2f1380e",
+      "filename": "results_001.xlsx",
+      "file_type": "EXCEL_CHUNK",
+      "file_size": 35432,
+      "record_count": 21,
+      "download_path": "/app/applet/data/results/job_3ed3e2f1380e/results_001.xlsx",
+      "created_at": "2026-10-03T08:16:05.246Z"
+    },
+    "zip_job_3ed3e2f1380e": {
+      "id": "zip_job_3ed3e2f1380e",
+      "job_id": "job_3ed3e2f1380e",
+      "filename": "match_results.zip",
+      "file_type": "ZIP_ARCHIVE",
+      "file_size": 11186,
+      "record_count": 21,
+      "download_path": "/app/applet/data/results/job_3ed3e2f1380e/match_results.zip",
+      "created_at": "2026-10-03T08:16:05.246Z"
+    },
+    "sum_job_3ed3e2f1380e": {
+      "id": "sum_job_3ed3e2f1380e",
+      "job_id": "job_3ed3e2f1380e",
+      "filename": "summary.xlsx",
+      "file_type": "SUMMARY_EXCEL",
+      "file_size": 17758,
+      "record_count": 1,
+      "download_path": "/app/applet/data/results/job_3ed3e2f1380e/summary.xlsx",
+      "created_at": "2026-10-03T08:16:05.246Z"
+    },
+    "res_job_73d1dab97ebd_1": {
+      "id": "res_job_73d1dab97ebd_1",
+      "job_id": "job_73d1dab97ebd",
+      "filename": "results_001.xlsx",
+      "file_type": "EXCEL_CHUNK",
+      "file_size": 563127,
+      "record_count": 500,
+      "download_path": "/app/applet/data/results/job_73d1dab97ebd/results_001.xlsx",
+      "created_at": "2026-10-03T08:19:54.361Z"
+    },
+    "zip_job_73d1dab97ebd": {
+      "id": "zip_job_73d1dab97ebd",
+      "job_id": "job_73d1dab97ebd",
+      "filename": "match_results.zip",
+      "file_type": "ZIP_ARCHIVE",
+      "file_size": 62047,
+      "record_count": 500,
+      "download_path": "/app/applet/data/results/job_73d1dab97ebd/match_results.zip",
+      "created_at": "2026-10-03T08:19:54.361Z"
+    },
+    "sum_job_73d1dab97ebd": {
+      "id": "sum_job_73d1dab97ebd",
+      "job_id": "job_73d1dab97ebd",
+      "filename": "summary.xlsx",
+      "file_type": "SUMMARY_EXCEL",
+      "file_size": 17783,
+      "record_count": 1,
+      "download_path": "/app/applet/data/results/job_73d1dab97ebd/summary.xlsx",
+      "created_at": "2026-10-03T08:19:54.361Z"
+    }
+  }
+}

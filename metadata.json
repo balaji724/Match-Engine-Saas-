@@ -1,0 +1,6 @@
+{
+  "name": "MatchEngine SaaS",
+  "description": "High-performance enterprise entity resolution and fuzzy matching platform for B2B company records, domains, contacts, and addresses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
